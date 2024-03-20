@@ -5,7 +5,7 @@ nota1 = int(input("Digite a primeira nota de avaliação do produto: "))
 
 nota2 = int(input("Digite a segunda nota de avaliação do produto: "))
 
-media = (float(nota1) + float(nota2))/7
+media = (float(nota1) + float(nota2))/2
 
 print("A média alcançada foi: %s" % media)
 
